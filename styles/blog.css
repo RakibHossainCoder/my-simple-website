@@ -6,3 +6,6 @@ div{
    border: solid 7px rgb(0, 204, 255);
    border-radius: 15px;
 }
+.commit{
+    background-color: rgb(19, 195, 98);
+}
